@@ -1,6 +1,6 @@
 # STATS-220
 
-##This is for my STATS 220 projects.
+##This is for my STATS 220 projects.###
 
 I will use this for demonstrating for stats studying.
 
